@@ -72,6 +72,7 @@
                         <env>
                             <BP_NATIVE_IMAGE>true</BP_NATIVE_IMAGE>
                         </env>
+                        <name>yagoalmeida/${project.artifactId}:${project.version}</name>
                     </image>
                 </configuration>
             </plugin>
